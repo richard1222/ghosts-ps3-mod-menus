@@ -297,3 +297,10 @@ Being explicit, per this guide's accuracy rules:
 - NotNite — reverse-engineering SPRX Elf Builder: https://NotNite.com/blog/ps3
 
 *Researched October 2026. Game facts (final TU, title IDs) verified against the RPCS3 wiki and PS3 update listings; menu/tool facts taken from the release threads and showcases linked above. Creator credits are given only where a source states them — "creator unclear" is stated wherever it doesn't.*
+
+---
+
+## Community
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
