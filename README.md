@@ -1,5 +1,12 @@
 # Call of Duty: Ghosts — PS3 Mod Menus & Modding Tools: The Complete Guide
 
+---
+
+## Join Our Discord
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
+
 *Every publicly released Call of Duty: Ghosts (2013) SPRX mod menu, RTM tool, modded EBOOT and unlock tool for PlayStation 3 — with creators credited, compatibility notes, and source links.*
 
 Ghosts is the odd one out in this guide series. World at War and MW2 had huge GSC `patch_mp.ff` scenes; MW3 and Black Ops 2 went SPRX. Ghosts went SPRX too — but it never grew the same free-menu ecosystem. Read any NextGenUpdate thread from 2016 and the same answer repeats: the good Ghosts non-host menus were **paid**, the free SPRX selection was thin, and a lot of the scene's energy went into **RTM tools, anti-ban EBOOTs, and paid recovery services** instead. This guide catalogs everything that actually existed, flags what could not be verified, and explains how to run it on a modern DEX setup.
@@ -297,10 +304,3 @@ Being explicit, per this guide's accuracy rules:
 - NotNite — reverse-engineering SPRX Elf Builder: https://NotNite.com/blog/ps3
 
 *Researched October 2026. Game facts (final TU, title IDs) verified against the RPCS3 wiki and PS3 update listings; menu/tool facts taken from the release threads and showcases linked above. Creator credits are given only where a source states them — "creator unclear" is stated wherever it doesn't.*
-
----
-
-## Join Our Discord
-
-- **Discord:** unosdopplegange
-- **Discord server:** https://discord.gg/MDcaC5nPuA
